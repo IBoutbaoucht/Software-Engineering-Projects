@@ -56,10 +56,10 @@ public class Database {
 
 Code:
 
-![1761734514084](TP-Design-Patterns/Client-first-code.png)
+![1761734514084](/Client-first-code.png)
 
 
-![1761734514084](TP-Design-Patterns/Program2-code.png)
+![1761734514084](/Program2-code.png)
 
 > Problem: This code is not well structured and is difficult to maintain and make changes !
 
@@ -68,7 +68,7 @@ Code:
 
 Class Diagram:
 
-![alt text](TP-Design-Patterns/Factory-Class-Diagram.png)
+![alt text](Factory-Class-Diagram.png)
 
 Code:
 

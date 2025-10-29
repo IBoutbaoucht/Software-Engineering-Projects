@@ -56,10 +56,10 @@ public class Database {
 
 Code:
 
-![1761734514084](/Client-first-code.png)
+![1761734514084](Client-first-code.png)
 
 
-![1761734514084](/Program2-code.png)
+![1761734514084](Program2-code.png)
 
 > Problem: This code is not well structured and is difficult to maintain and make changes !
 
